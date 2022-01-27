@@ -1,7 +1,5 @@
 # CMSEA (PyTorch)
 
-CMSEA: Compound Model Scaling with Efficient Attention for Fine-grained Image Classification
-
 ## CMSEA Architecture
 ![Poster](results/cmsea.png)
 
